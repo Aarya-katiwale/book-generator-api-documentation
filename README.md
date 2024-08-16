@@ -5,7 +5,7 @@ Welcome to the Book Generator API Documentation project! This repository contain
 Getting Started
 To get started with the project, follow these steps:
 
-Clone the repository: git clone https://github.com/codebytere/book-generator-api-documentation.git
+Clone the repository: git clone https://github.com/Aarya-katiwale/book-generator-api-documentation.git
 Open the index.html file in a web browser to view the API documentation.
 Project Structure
 The project consists of the following folders and files:
