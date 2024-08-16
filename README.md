@@ -11,11 +11,7 @@ Project Structure
 The project consists of the following folders and files:
 
 index.html: The main HTML file that contains the API documentation.
-css/: A folder containing the custom CSS styles.
-styles.css: The main CSS file that defines the layout and design of the API documentation.
-js/: A folder containing the custom JavaScript code.
-script.js: The main JavaScript file that handles the API key generation and other interactive elements.
-Features
+
 The Book Generator API Documentation project includes the following features:
 
 Detailed API documentation for the Book Generator API
